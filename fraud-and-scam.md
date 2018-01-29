@@ -30,3 +30,4 @@
 ### ICOs
 
 * 2018.01.08 - Cryptocoins - Tron’s Whitepaper is Copied, Plagiarized [[Link]](https://hackernoon.com/trons-whitepaper-is-copied-plagiarized-cefce74335ce)
+* 2018.01.13 - Charles Noyes - $600 Million TONs of Crap [[Link]](https://tokeneconomy.co/a-ton-of-crap-b1e264c36802)

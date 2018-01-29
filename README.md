@@ -8,18 +8,26 @@
 #### II - Consensus Solutions
 
 #### [III - Functions](/functions.md)
+* Games
 * Scalability
 * Stablecoins
 * Blockchain Interoperability
 
-#### IV - Exchange
+#### [IV - Cryptocurrencies](/cryptocurrencies.md)
+* Ethereum
+* IOTA
+* OmiseGo
 
-#### V - Security
+#### V - Economy
 
-#### [VI - Fraud and Scam](/fraud-and-scam.md)
+#### VI - Exchange
+
+#### VII - Security
+
+#### [IX - Fraud and Scam](/fraud-and-scam.md)
 
 * Bitfinex and Tether
 * Coinbase and GDAX
 * ICOs
 
-#### VII - History
+#### X - History
