@@ -7,7 +7,8 @@
 
 #### II - Consensus Solutions
 
-#### III - Fonctions
+#### [III - Functions](/functions.md)
+* Blockchain Interoperability
 
 #### IV - Exchange
 
