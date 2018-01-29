@@ -2,6 +2,10 @@
 
 ###### [<- Return to the Index](/README.md)
 
+### Tokens
+
+* 2017.12.23 - Steven McKie - The Anatomy of ERC721 [[Link]](https://medium.com/blockchannel/the-anatomy-of-erc721-2576e40bfc5b)
+
 ### Games
 
 * 2018.01.14 - Ethercraft - Introducing Ethercraft: a decentralized RPG running on the Ethereum Blockchain [[Link]](https://medium.com/@ethercraft/introducing-ethercraft-a-decentralized-rpg-running-on-the-ethereum-blockchain-3931bea40b3b)

@@ -8,19 +8,26 @@
 #### II - Consensus Solutions
 
 #### [III - Functions](/functions.md)
+* Tokens
 * Games
 * Scalability
 * Stablecoins
 * Blockchain Interoperability
 
 #### [IV - Cryptocurrencies](/cryptocurrencies.md)
+* Bitcoin
 * Ethereum
 * IOTA
+* Tezos
 * OmiseGo
 
-#### V - Economy
+#### [VI - Technical](/technical.md)
+* Encryption
 
-#### VI - Exchange
+#### [VI - Economy](/economy.md)
+* Investment
+* Valuation
+* Bubble
 
 #### VII - Security
 
