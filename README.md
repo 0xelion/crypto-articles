@@ -8,6 +8,8 @@
 #### II - Consensus Solutions
 
 #### [III - Functions](/functions.md)
+* Scalability
+* Stablecoins
 * Blockchain Interoperability
 
 #### IV - Exchange
