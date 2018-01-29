@@ -1,6 +1,6 @@
 # Overview
 
-###### [<- Return to the Index](../README.md)
+###### [<- Return to the Index](/README.md)
 
 ### Quick Start Guides
 

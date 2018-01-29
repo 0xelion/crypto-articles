@@ -1,6 +1,6 @@
 # Fraud and Scam
 
-###### [<- Return to the Index](../README.md)
+###### [<- Return to the Index](/README.md)
 
 ### Bitfinex and Tether
 
