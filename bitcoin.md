@@ -2,6 +2,10 @@
 
 ###### [<- Return to the Index](/README.md)
 
+### Lightning Network
+
+* 2018.02.03 - Shingai Thornton - Viability of Second-Layer Networks Tested as Lightning Strikes Bitcoin [[Link]](https://decentralize.today/viability-of-second-layer-networks-tested-as-lightning-strikes-bitcoin-f366e61c7d0d)
+
 ### Forks
 
 * 2018.01.03 - Jimmy Song - Bitcoin Diamond/Super Bitcoin/BitCore: What You Need To Know [[Link]](https://medium.com/@jimmysong/bitcoin-diamond-super-bitcoin-bitcore-what-you-need-to-know-f49c35688a39)

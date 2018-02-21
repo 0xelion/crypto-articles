@@ -23,6 +23,7 @@
 * 2017.12.22 - Un Tether - How the Tether (USDT) distribution system works. [[Link]](https://medium.com/@untetheredbtc/how-the-tether-usdt-distribution-system-works-84a5c673bec0)
 * 2018.01.03 - Un Tether - Tether : The Tail Wagging The Dog [[Link]](https://hackernoon.com/tether-the-tail-wagging-the-dog-3ebfd4640825)
 * 2018.01.27 - Bitfinex’ed - Bitfinex fails to perform promised audits. Instead, they have a shareholder tell everyone it’s all cool. [[Link]](https://medium.com/@bitfinexed/bitfinex-fails-to-perform-promised-audits-instead-they-have-a-shareholder-tell-everyone-its-all-965ae7037b5d)
+* 2018.01.31 - Bitfinex’ed - Tether Exchanges: How to avoid getting ‘Tethered’. [[Link]](https://medium.com/@bitfinexed/tether-exchanges-how-to-avoid-getting-tethered-d02c6ae2c52c)
 * 2018.02.08 - Bitfinex’ed - Bitfinex and Tether is unauditable: Why they will never do a real audit. [[Link]](https://medium.com/@bitfinexed/bitfinex-and-tether-is-unauditable-why-they-will-never-do-a-real-audit-3324e002b185)
 * 2018.02.08 - Alex Vikati - A Closer Look At Tether’s Blockchain [[Link]](https://hackernoon.com/a-closer-look-at-tethers-blockchain-5c3032328e52)
 
@@ -37,3 +38,15 @@
 
 * 2018.01.08 - Cryptocoins - Tron’s Whitepaper is Copied, Plagiarized [[Link]](https://hackernoon.com/trons-whitepaper-is-copied-plagiarized-cefce74335ce)
 * 2018.01.13 - Charles Noyes - $600 Million TONs of Crap [[Link]](https://tokeneconomy.co/a-ton-of-crap-b1e264c36802)
+
+### Crypto Heist
+
+* 2018.02.02 - The Financial Times - ‘Crypto crazy’ Japanese mystified by virtual heist [[Link]](https://medium.com/financial-times/crypto-crazy-japanese-mystified-by-virtual-heist-15b41c5c1e0c)
+
+### MEW / MyCrypto
+
+* 2018.02.12 - Chris Remus - MyEtherWallet or MyCrypto, Which One Should You Use? [[Link]](https://medium.com/the-blockchain-consumer/myetherwallet-or-mycrypto-which-one-should-you-use-5ee267d53084)
+
+### Ether Ponzis
+
+* 2018.02.01 - How $800k Evaporated from the PoWH Coin Ponzi Scheme Overnight [[Link]](https://blog.goodaudience.com/how-800k-evaporated-from-the-powh-coin-ponzi-scheme-overnight-1b025c33b530)

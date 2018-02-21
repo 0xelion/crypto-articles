@@ -4,9 +4,11 @@
 
 #### [I - An Overview](/overview.md)
 * Quick Start Guides
+* Consensus
 
 #### [II - Functions](/functions.md)
 * Consensus Solutions
+* Stablecoins
 * Blockchain Interoperability
 
 #### [III - Bitcoin](/bitcoin.md)
@@ -17,10 +19,13 @@
 * Smart Contracts
 * Tokens
 * Games
+* Decentralized Exchanges
 * Scalability
 * Stablecoins
+* Infrastructures
 * Arts
 * Economy
+* Solutions
 
 #### [V - Other Cryptocurrencies](/cryptocurrencies.md)
 * IOTA
@@ -42,3 +47,10 @@
 * Bitfinex and Tether
 * Coinbase and GDAX
 * ICOs
+* Crypto Heist
+* MEW / MyCrypto
+* Ether Ponzis
+
+#### [X - History](/history.md)
+
+* Satoshi Nakamato
