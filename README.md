@@ -13,6 +13,7 @@
 * Scalability
 * Stablecoins
 * Blockchain Interoperability
+* Arts
 
 #### [IV - Cryptocurrencies](/cryptocurrencies.md)
 * Bitcoin
@@ -22,6 +23,7 @@
 * OmiseGo
 
 #### [VI - Technical](/technical.md)
+* Programming
 * Encryption
 
 #### [VI - Economy](/economy.md)
@@ -29,9 +31,10 @@
 * Valuation
 * Bubble
 
-#### VII - Security
+#### [VII - Security](/security.md)
+* Hardware
 
-#### [IX - Fraud and Scam](/fraud-and-scam.md)
+#### [IX - Frauds and Scams](/frauds-and-scams.md)
 
 * Bitfinex and Tether
 * Coinbase and GDAX

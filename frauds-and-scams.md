@@ -1,4 +1,4 @@
-# Fraud and Scam
+# Frauds and Scams
 
 ###### [<- Return to the Index](/README.md)
 
@@ -19,6 +19,12 @@
 * 2017.11.16 - Bitfinex’ed - The Bitfinex Dilemma: Blow up now, or try a Hail-Mary to retain in business [[Link]](https://medium.com/@bitfinexed/the-bitfinex-dilemma-blow-up-now-or-try-a-hail-mary-to-retain-in-business-10b9d989359f)
 * 2017.11.17 - Bitfinex’ed - Super Easy Simple Bitfinex/Tether Questions That Phil Potter Will Never Answer [[Link]](https://medium.com/@bitfinexed/super-easy-simple-bitfinex-tether-questions-that-phil-potter-will-never-answer-ca564d4e184c)
 * 2017.12.02 - Bitfinex’ed - Spoiler Alert: The ‘Institution’ buying Tethers, is Bitfinex themselves [[Link]](https://medium.com/@bitfinexed/spoiler-alert-the-institution-buying-tethers-is-bitfinex-themselves-f56af29ce60c)
+* 2017.12.18 - Bitfinex’ed - Understanding Bogus USD Crypto-currency ‘Volume’: Why you should disregard FakeUSD™ Prices and Volume. [[Link]](https://medium.com/@bitfinexed/understanding-bogus-usd-crypto-currency-volume-why-you-should-disregard-fakeusd-prices-and-c0933c72e3e5)
+* 2017.12.22 - Un Tether - How the Tether (USDT) distribution system works. [[Link]](https://medium.com/@untetheredbtc/how-the-tether-usdt-distribution-system-works-84a5c673bec0)
+* 2018.01.03 - Un Tether - Tether : The Tail Wagging The Dog [[Link]](https://hackernoon.com/tether-the-tail-wagging-the-dog-3ebfd4640825)
+* 2018.01.27 - Bitfinex’ed - Bitfinex fails to perform promised audits. Instead, they have a shareholder tell everyone it’s all cool. [[Link]](https://medium.com/@bitfinexed/bitfinex-fails-to-perform-promised-audits-instead-they-have-a-shareholder-tell-everyone-its-all-965ae7037b5d)
+* 2018.02.08 - Bitfinex’ed - Bitfinex and Tether is unauditable: Why they will never do a real audit. [[Link]](https://medium.com/@bitfinexed/bitfinex-and-tether-is-unauditable-why-they-will-never-do-a-real-audit-3324e002b185)
+* 2018.02.08 - Alex Vikati - A Closer Look At Tether’s Blockchain [[Link]](https://hackernoon.com/a-closer-look-at-tethers-blockchain-5c3032328e52)
 
 
 ### Coinbase and GDAX
