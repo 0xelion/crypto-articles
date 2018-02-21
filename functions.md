@@ -2,6 +2,10 @@
 
 ###### [<- Return to the Index](/README.md)
 
+### Smart Contracts
+
+* 2018.02.12 - Maurelian - An early look at Vyper [[Link]](https://medium.com/@maurelian/an-early-look-at-vyper-d101e0c349c1)
+
 ### Tokens
 
 * 2017.12.23 - Steven McKie - The Anatomy of ERC721 [[Link]](https://medium.com/blockchannel/the-anatomy-of-erc721-2576e40bfc5b)

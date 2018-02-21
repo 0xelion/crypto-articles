@@ -8,6 +8,7 @@
 #### II - Consensus Solutions
 
 #### [III - Functions](/functions.md)
+* Smart Contracts
 * Tokens
 * Games
 * Scalability
@@ -22,22 +23,17 @@
 * Tezos
 * OmiseGo
 
-#### [VI - Technical](/technical.md)
-* Programming
-* Encryption
-
-#### [VI - Economy](/economy.md)
+#### [V - Economy](/economy.md)
 * Investment
 * Valuation
 * Bubble
 
-#### [VII - Security](/security.md)
+#### [VI - Security](/security.md)
 * Hardware
+* Encryption
 
-#### [IX - Frauds and Scams](/frauds-and-scams.md)
+#### [VII - Frauds and Scams](/frauds-and-scams.md)
 
 * Bitfinex and Tether
 * Coinbase and GDAX
 * ICOs
-
-#### X - History
