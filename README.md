@@ -5,34 +5,39 @@
 #### [I - An Overview](/overview.md)
 * Quick Start Guides
 
-#### II - Consensus Solutions
+#### [II - Functions](/functions.md)
+* Consensus Solutions
+* Blockchain Interoperability
 
-#### [III - Functions](/functions.md)
+#### [III - Bitcoin](/bitcoin.md)
+* Forks
+* Philosophy
+
+#### [IV - Ethereum](/ethereum.md)
 * Smart Contracts
 * Tokens
 * Games
 * Scalability
 * Stablecoins
-* Blockchain Interoperability
 * Arts
+* Economy
 
-#### [IV - Cryptocurrencies](/cryptocurrencies.md)
-* Bitcoin
-* Ethereum
+#### [V - Other Cryptocurrencies](/cryptocurrencies.md)
 * IOTA
 * Tezos
 * OmiseGo
+* Zilliqa
 
-#### [V - Economy](/economy.md)
+#### [VI - Economy](/economy.md)
 * Investment
 * Valuation
 * Bubble
 
-#### [VI - Security](/security.md)
+#### [VII - Security](/security.md)
 * Hardware
 * Encryption
 
-#### [VII - Frauds and Scams](/frauds-and-scams.md)
+#### [IX - Frauds and Scams](/frauds-and-scams.md)
 
 * Bitfinex and Tether
 * Coinbase and GDAX
