@@ -26,6 +26,7 @@
 * 2018.02.12 - Josh Stark - Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit [[Link]](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 * 2018.02.19 - Matt Condon - Ethereum Scaling Solutions and Tradeoffs [[Link]](https://medium.com/xlnt-art/ethereum-scaling-solutions-and-tradeoffs-5713b3a7223b)
 * 2018.02.20 - ConsenSys - The Inside Story of the CryptoKitties Congestion Crisis [[Link]](https://media.consensys.net/the-inside-story-of-the-cryptokitties-congestion-crisis-499b35d119cc)
+  * 2018.02.21 - Web3 Foundation Team - Investigating Short Term Scaling Solutions for Ethereum [[Link]](https://medium.com/@web3/investigating-short-term-scaling-solutions-for-ethereum-a5951fee8967)
 
 ### Stablecoins
 
